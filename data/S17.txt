@@ -1,0 +1,33 @@
+## **__TSN Standings Season 17 as of today__**
+
+## :ACC: ACC
+:NotreDame: NotreDame 9-3 [5-1] [35.5]
+:EastCarolina: EastCarolina 8-4 [5-1] [40.1]
+:Marshall: Marshall 7-5 [3-2] [40.1]
+:Michigan: Michigan 6-6 [2-3] [33.1]
+:MiamiFL: Miami 5-7 [1-4] [33.8]
+:Texas: Texas 2-10 [0-5] [19.1]
+
+## :Big12: Big 12
+:SanDiegoState: SDSU 7-5 [5-1] [37.6]
+:WestVirginia: WestVirginia 5-7 [4-2] [25.2]
+:Maine: Maine 10-2 [3-2] [47.9]
+:ArizonaState: ASU 6-6 [2-3] [40.8]
+:Cincinnati: Cincinnati 8-4 [2-3] [39.8]
+:BoiseState: BoiseState 5-7 [0-5] [27.8]
+
+## :SEC: SEC
+:OleMiss: OleMiss 6-6 [5-1] [27.2]
+:Tennessee: Tennessee 7-5 [3-3] [34.4]
+:SouthCarolina: SouthCarolina 5-7 [3-2] [27.8]
+:Georgia: Georgia 4-8 [2-3] [28.8]
+:Florida: Florida 5-7 [2-3] [27.6]
+:Alabama: Alabama 4-8 [1-4] [29.4]
+
+## :B1G: Big 10
+:Rutgers: Rutgers 7-5 [6-0] [41.1]
+:Iowa: Iowa 8-4 [4-2] [32.2]
+:OhioState: OhioState 8-4 [2-3] [35.5]
+:Temple: Temple 3-9 [2-3] [24.2]
+:PennState: PennState 5-7 [1-4] [24.5]
+:MichiganState: MichiganState 4-8 [1-4] [25.8]

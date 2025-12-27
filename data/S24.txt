@@ -1,0 +1,43 @@
+## **__TSN Standings Season 24 as of today__**
+
+### :Big8: Big 8
+:Maryland: Maryland 10-2 [7-1] [68.8]
+:Rutgers: Rutgers 8-4 [7-1] [56.3] 🏆
+:Alaska: Alaska 8-4 [4-3] [50.1]
+:Miami: Miami 7-5 [4-3] [55.4]
+:Nebraska: Nebraska 4-8 [3-4] [42.3]
+:Winterthur: Winterthur 7-5 [3-4] [58.7]
+:Florida: Florida 5-7 [1-6] [35.6]
+:OklahomaState: OklahomaState 2-10 [0-7] [39.9]
+
+### :NCC: Natty Clash Conference
+:JacksonState: JacksonState 9-3 [6-1] [61.3] 🏆
+:SouthCarolina: SouthCarolina 8-4 [5-2] [48.3] 
+:GeorgiaState: GeorgiaState 7-5 [4-2] [57.3]
+:Army: Army 6-6 [4-2] [52.9]
+:Iowa: Iowa 4-8 [1-5] [44.8]
+:Tulsa: Tulsa 3-9 [1-5] [34.6]
+:Vanderbilt: Vanderbilt 2-10 [1-5] [34.4]
+
+### :ITC: Iron Throne Conference
+:Maine: Maine 11-1 [3-1] [68.3] 🏆
+:NotreDame: NotreDame 10-2 [3-1] [64.5]
+:Cincinnati: Cincinnati 10-2 [1-2] [69.3]
+:ArizonaState: ArizonaState 6-6 [0-3] [43.8]
+
+### :MAC: Mid American Conference
+:Indiana: Indiana 10-2 [5-1] [64] 🏆
+:SouthFlorida: SouthFlorida 7-5 [3-3] [41.6]
+:OhioState: OhioState 6-6 [3-2] [38.8]
+:Michigan: Michigan 4-8 [2-3] [35.7]
+:Akron: Akron 5-7 [2-3] [57.5] 
+:Tennessee: Tennessee 4-8 [1-4] [42.9]
+
+### :Independents: Independents
+:California: California 8-4 [0-0] [51.1]
+:Arizona: Arizona 6-6 [0-0] [40.8]
+:Alabama: Alabama 5-7 [0-0] [45.4]
+:NebraskaKearney: NebraskaKearney 4-8 [0-0] [31.3]
+:Oregon: Oregon 3-9 [0-0] [38.6]
+:Minnesota: Minnesota 2-10 [0-0] [24]
+:Colorado: Colorado 1-11 [0-0] [36]

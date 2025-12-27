@@ -1,0 +1,38 @@
+## **__TSN Standings Season 20 as of today__**
+
+### :ACC: ACC
+:NotreDame: NotreDame 10-2 [6-1] [61]
+:SanJoseState: SJ 9-3 [6-1] [56.4]
+:EastCarolina: ECU 9-3 [3-3] [45.6]
+:Duke: Duke 5-7 [3-3] [37.4]
+:Akron: Akron 6-6 [2-4] [26.8]
+:VirginiaTech: VT 4-8 [1-5] [32.5]
+:Marshall: Marshall 3-9 [1-5] [39.3]
+
+### :Big12: Big12
+:Cincinnati: Cincinnati 10-2 [6-1] [63.6]
+:ArizonaState: ASU 10-2 [5-2] [57.5]
+:Maine: Maine 9-3 [4-2] [63.8]
+:Arizona: Arizona 5-7 [3-3] [50.7]
+:OklahomaState: OSU 5-7 [3-3] [35.7]
+:IowaState: IowaState 3-9 [1-5] [31.1]
+:Army: Army 3-9 [0-6] [30.5]
+
+### :B1G: Big10
+:Rutgers: Rutgers 8-4 [7-0] [66.8]
+:Iowa: Iowa 5-7 [4-3] [57]
+:PennState: PennState 7-5 [3-3] [53.9]
+:Nebraska: Nebraska 5-7 [3-3] [47.1]
+:Maryland: Maryland 6-6 [2-4] [47.8]
+:Indiana: Indiana 4-8 [1-5] [46.8]
+:ArkansasState: Arkansas 3-9 [1-5] [40.6]
+
+### :SEC: SEC
+:OleMiss: OleMiss 9-3 [7-0] [58.4]
+:SouthCarolina: SouthCarolina 7-5 [5-2] [44]
+:Alabama: Alabama 8-4 [4-2] [57.8]
+:LSU: LSU 7-5 [4-2] [40.3]
+:Florida: Florida 6-6 [1-5] [42.8]
+:Vanderbilt: Vanderbilt 2-10 [1-5] [25.8]
+:Georgia: Georgia 1-11 [1-5] [32.8]
+

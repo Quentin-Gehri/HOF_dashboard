@@ -1,0 +1,38 @@
+## **__TSN Standings Season 22 as of today__**
+
+### :BigEast: Big East
+:Maryland: Maryland 10-2 [7-2] [63.6]
+:Rutgers: Rutgers 8-4 [5-3] [58.5]
+:PennState: PennState 5-7 [5-4] [49.8]
+:Akron: Akron 7-5 [4-4] [52.3]
+:Tennessee: Tennessee 2-10 [0-8] [20.2]
+
+### :Big8: Big 8
+:Nebraska: Nebraska 7-5 [4-1] [56.2]
+:EastCarolina: EastCarolina 8-4 [3-2] [60.2]
+:OklahomaState: OklahomaState 6-6 [2-2] [59.3]
+:Alaska: Alaska 5-7 [2-2] [30]
+:LouisianaTech: LouisianaTech 4-8 [0-4] [46.9]
+
+### :NCC: NCC
+:NotreDame: NotreDame 10-2 [6-0] [65.9]
+:OleMiss: OleMiss 8-4 [4-2] [61.8]
+:CoastalCarolina: CoastalCarolina 7-5 [3-2] [48.9]
+:Alabama: Alabama 7-5 [2-3] [65.7]
+:Iowa: Iowa 3-9 [1-4] [46.3]
+:Vanderbilt: Vanderbilt 1-11 [0-5] [34.3]
+
+### :ITC: ITC
+:Cincinnati: Cincinnati 11-1 [4-0] [75.4]
+:Maine: Maine 7-5 [2-3] [69.5]
+:Memphis: Memphis 6-6 [1-2] [37.9]
+:ArizonaState: ArizonaState 5-7 [0-3] [47.4]
+
+### :Independents: Independent Teams
+:Arizona: Arizona 10-2 [0-0] [57.8]
+:California: California 4-8 [0-0] [29.4]
+:Army: Army 4-8 [0-0] [41.1]
+:NebraskaKearney: NebraskaKearney 4-8 [0-0] [31.3]
+:SouthCarolina: SouthCarolina 3-9 [0-0] [45.1]
+:Texas: Texas 3-9 [0-0] [33.6]
+

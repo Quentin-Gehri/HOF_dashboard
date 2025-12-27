@@ -1,0 +1,41 @@
+## **__TSN Standings Season 19 as of today__**
+
+## :ACC: ACC
+:NotreDame: NotreDame 11-1 [7-1] [60.5]
+:Temple: Temple 9-3 [6-2] [52]
+:Duke: Duke 9-3 [5-2] [40]
+:Marshall: Marshall 7-5 [5-2] [46.9]
+:EastCarolina: ECU 6-6 [3-4] [45.5]
+:Texas: Texas 6-6 [3-4] [29.4]
+:Akron: Akron 3-9 [1-6] [25.6]
+:VirginiaTech: VT 2-10 [0-7] [27.5]
+
+## :Big12: Big12
+:Cincinnati: Cincinnati 11-1 [7-1] [49.8]
+:Maine: Maine 10-2 [7-1] [65.4]
+:ArizonaState: ASU 10-2 [5-2] [58]
+:ArkansasState: Arkansas 8-4 [4-3] [54.4]
+:KansasState: KansasState 6-6 [3-4] [31.6]
+:IowaState: IowaState 2-10 [2-5] [25]
+:TexasAM: TexasAM 2-10 [1-6] [29.6]
+:Arizona: Arizona 1-11 [1-6] [30.2]
+
+## :B1G: Big10
+:Iowa: Iowa 10-2 [7-1] [56]
+:Rutgers: Rutgers 7-5 [6-2] [48.4]
+:Nebraska: Nebraska 7-5 [4-3] [40.7]
+:OklahomaState: OSU 6-6 [3-4] [32.8]
+:PennState: PennState 5-7 [4-3] [46.4]
+:Maryland: Maryland 5-7 [3-4] [30.1]
+:Northwestern: Northwestern 2-10 [1-6] [20.2]
+:Indiana: Indiana 2-10 [1-6] [28.7]
+
+## :SEC: SEC 
+:Alabama: Alabama 10-2 [7-1] [60.7]
+:OleMiss: OleMiss 8-4 [6-2] [50.8]
+:SouthCarolina: SouthCarolina 6-6 [5-2]  [40.1]
+:LSU: LSU 6-6 [3-4] [38.8]
+:Georgia: Georgia 6-6 [3-4] [28.8]
+:MississippiState: Mississippi 4-8 [2-5] [28.8]
+:Vanderbilt: Vanderbilt 3-9 [2-5] [26.8]
+:Florida: Florida 3-9 [1-6] [30]

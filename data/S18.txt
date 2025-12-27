@@ -1,0 +1,41 @@
+## **__TSN Standings Season 18 as of today__**
+
+## :ACC: ACC
+:NotreDame: NotreDame 8-4 [6-2] [43.1]
+:EastCarolina: ECU 8-4 [6-2] [41.7]
+:Arizona: Arizona 9-3 [5-2] [37.9]
+:Temple: Temple 7-5 [3-4] [32.4]
+:Marshall: Marshall 6-6 [3-4] [33.4]
+:Texas: Texas 4-8 [3-4] [24]
+:Duke: Duke 5-7 [2-5] [35.2]
+:MiamiFL: Miami 4-8 [1-6] [26]
+
+## :Big12: Big 12
+:ArizonaState: ASU 11-1 [8-0] [51.7]
+:Maine: Maine 9-3 [6-2] [51.5]
+:Cincinnati: Cincinnati 8-4 [4-3] [42.6]
+:SanDiegoState: SDSU 7-5 [4-3] [35.4]
+:Akron: Akron 5-7 [3-4] [22.3]
+:Oklahoma: Oklahoma 3-9 [2-5] [19.2]
+:Colorado: Colorado 3-9 [1-6] [29.3]
+:TCU: TCU 2-10 [1-6] [20.1]
+
+## :B1G: Big10
+:PennState: PennState 9-3 [6-2] [42.3]
+:OhioState: OSU 7-5 [5-2] [37]
+:Michigan: Michigan 8-4 [5-3] [37.6]
+:Iowa: Iowa 9-3 [4-3] [42.9] 
+:Rutgers: Rutgers 5-7 [4-3] [35.9]
+:USC: USC 4-8 [3-4] [31]
+:Indiana: Indiana 4-8 [2-5] [22.3]
+:Vanderbilt: Vanderbilt 1-11 [0-7] [18.5]
+
+## :SEC: SEC
+:OleMiss: OleMiss 11-1 [7-1] [48.2]
+:Tennessee: Tennessee 9-3 [6-2] [50.5]
+:Arkansas: Arkansas 6-6 [5-2] [37.3]
+:LSU: LSU 5-7 [3-4] [38.8]
+:Alabama: Alabama 6-6 [2-5] [51.3]
+:SouthCarolina: SouthCarolina 4-8 [2-5] [26.3]
+:Missouri: Missouri 3-9 [2-5] [35.7]
+:Florida: Florida 2-10 [1-6] [27.7]

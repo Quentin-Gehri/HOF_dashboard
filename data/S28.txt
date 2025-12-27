@@ -1,0 +1,49 @@
+## **__TSN Standings Season 28 as of today__**
+
+### :Big8: Big 8
+:Alaska: Alaska 9-3 [7-1] [69.2] 
+:Virginia: Virginia 9-3 [7-1] [57.1] 🏆
+:LouisianaState: LouisianaState 8-4 [4-3] [59.8]
+:Maryland: Maryland 6-6 [4-3] [56.7]
+:Tokyo: Tokyo 5-7 [3-4] [36.9]
+:Winterthur: Winterthur 7-5 [3-4] [53.6]
+:McNeeseState: McNeeseState 2-10 [1-6] [35.1]
+:Northwestern: Northwestern 0-12 [0-7] [26.9]
+
+### :NCC: Natty Clash Conference
+:Alabama: Alabama 11-1 [5-1] [69.2] 🏆
+:OleMiss: OleMiss 10-2 [5-1] [58.5]
+:Nebraska: Nebraska 6-6 [3-2] [38.3]
+:Iowa: Iowa 4-8 [2-3] [44.4]
+:Army: Army 7-5 [1-4] [54]
+:Furman: Furman 2-10 [0-5] [24.4] 
+
+### :ITC: Iron Throne Conference
+:Cincinnati: Cincinnati 10-2 [5-1] [74.5] 🏆
+:Maine: Maine 9-3 [4-2] [72.8] 
+:Wisconsin: Wisconsin 9-3 [3-2] [73.3]
+:NotreDame: NotreDame 9-3 [3-2] [68.9] 
+:ArizonaState: ArizonaState 7-5 [2-3] [52.3]
+:OregonState: OregonState 3-9 [0-5] [56.1]
+
+### :MAC: Mid-Atlantic Conference
+:Indiana: Indiana 10-2 [5-1] [58.7] 🏆
+:Tennessee: Tennessee 8-4 [4-2] [52.5]
+:Minnesota: Minnesota 5-7 [3-2] [47.7]
+:Akron: Akron 6-6 [3-2] [52.7]
+:Clarkson: Clarkson 1-11 [1-4] [31.8]
+:BostonCollege: BostonCollege 3-9 [0-5] [25]
+
+### :Elite10: Elite 10
+:Louisville: Louisville 7-5 [5-1] [62.3] 🏆
+:SouthernMississippi: SouthernMississippi 7-5 [4-1] [51.4]
+:California: California 8-4 [4-2] [62.7] 
+:MississippiState: MississippiState 4-8 [2-3] [32.5]
+:HolyCross: HolyCross 3-9 [1-4] [37.5]
+:Vanderbilt: Vanderbilt 3-9 [0-5] [24.4]
+
+### :Independents: Independents Teams
+:OhioState: OhioState 6-6 [0-0] [40.8]
+:Ottawa: Ottawa 5-7 [0-0] [46.5]
+:SouthernCalifornia: SouthernCalifornia 4-8 [0-0] [29.3]
+:BallState: BallState 2-10 [0-0] [29.1]
