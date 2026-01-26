@@ -1,5 +1,6 @@
 from season import Season 
 from team import Team
+import time
 
 def find_team(teams, name):
     for team in teams:
@@ -9,19 +10,12 @@ def find_team(teams, name):
 
 def process_line(line, season_num):
     words = line.split()
-    print("words : ", words)
     team_name = words[0].replace(":", "")
-    print("Team name : ", team_name)
     ovr_win_str, ovr_loss_str = words[2].split("-")
     ovr_win, ovr_loss = int(ovr_win_str), int(ovr_loss_str)
-    print("Ovr wins : ", ovr_win)
-    print("Ovr loss : ", ovr_loss)
     conf_win_str, conf_loss_str = words[3].replace("[", "").replace("]", "").split("-")
     conf_win, conf_loss = int(conf_win_str), int(conf_loss_str)
-    print("Conf wins : ", conf_win)
-    print("Conf loss : ", conf_loss)
     ppg = float(words[4].replace("[", "").replace("]", ""))
-    print("PPG : ", ppg)
     return Team(team_name), Season(season_num, ovr_win, ovr_loss, conf_win, conf_loss, ppg)
 
 def create_teams_from_file(filename, season_num, teams):
@@ -37,15 +31,13 @@ def create_teams_from_file(filename, season_num, teams):
                 else: 
                     team_found.add_season(season)
 
-
-
-def main():
+def reading_data():
     teams = []
-    for season_num in range(17, 30):
+    for season_num in range(17, 31):
         create_teams_from_file(f"data/S{season_num}.txt", season_num, teams)    
     for team in teams:
         team.calculate_total()
-        print(team)
+    return teams
 
 if __name__ == "__main__":
     main()
