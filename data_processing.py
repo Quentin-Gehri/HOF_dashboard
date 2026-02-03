@@ -1,8 +1,6 @@
 import pandas as pd
 from team import Team
 from season import Season
-from geopy.geocoders import Nominatim 
-from geopy.extra.rate_limiter import RateLimiter
 
 def teams_to_dataframe(teams: list[Team]) -> pd.DataFrame:
     return pd.DataFrame([
@@ -20,7 +18,7 @@ def teams_to_dataframe(teams: list[Team]) -> pd.DataFrame:
     ])
 
 def teams_to_dataframe_by_season(teams: list[Team]) -> pd.DataFrame:
-    rows = []
+    rows: list[Team] = []
     for t in teams:
         for s in t.seasons:
             rows.append({
@@ -35,3 +33,15 @@ def teams_to_dataframe_by_season(teams: list[Team]) -> pd.DataFrame:
                 "PPG": round(s.ppg, 2),
             })
     return pd.DataFrame(rows)
+
+def dataframe_to_dataframe_dic(df: pd.DataFrame, team_name: str) -> pd.DataFrame:
+    row = df[df["Team"] == team_name].iloc[0]
+    return pd.DataFrame(dict(
+                r=[
+                    row["Overall Winrate"]*100,
+                    row["Conference Winrate"]*100,
+                    row["PPG"]
+                ],
+                theta=['Overall Winrate', 'Conference Winrate', 'PPG']
+            )
+        )
