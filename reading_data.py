@@ -11,6 +11,7 @@ def find_team(teams, name):
 def process_line(line, season_num):
     words = line.split()
     team_name = words[0].replace(":", "")
+    print(words)
     ovr_win_str, ovr_loss_str = words[2].split("-")
     ovr_win, ovr_loss = int(ovr_win_str), int(ovr_loss_str)
     conf_win_str, conf_loss_str = words[3].replace("[", "").replace("]", "").split("-")
@@ -33,7 +34,7 @@ def create_teams_from_file(filename, season_num, teams):
 
 def reading_data():
     teams = []
-    for season_num in range(17, 31):
+    for season_num in range(17, 33):
         create_teams_from_file(f"data/S{season_num}.txt", season_num, teams)    
     for team in teams:
         team.calculate_total()
